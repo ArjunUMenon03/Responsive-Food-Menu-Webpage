@@ -24,9 +24,9 @@ This project demonstrates a responsive three-column layout food menu built with 
 ## File Structure
 
 / (root)
-├── index.html # Main webpage /n
-├── css/ /n
-│ ├── bootstrap.min.css # Bootstrap CSS framework/n
+├── index.html # Main webpage 
+├── css/ 
+│ ├── bootstrap.min.css # Bootstrap CSS framework
 │ └── styles.css # Custom CSS styles
 ├── js/
 │ ├── jquery-1.11.3.min.js # jQuery library
