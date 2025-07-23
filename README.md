@@ -22,6 +22,7 @@ This project demonstrates a responsive three-column layout food menu built with 
 - JavaScript (jQuery and Bootstrap JS)  
 
 ## File Structure
+
 / (root)
 ├── index.html # Main webpage
 ├── css/
