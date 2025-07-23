@@ -40,12 +40,6 @@ This project demonstrates a responsive three-column layout food menu built with 
 3. Use the navbar to navigate between menu sections on the page.  
 4. Resize the browser window or open on a mobile device to experience responsive behavior.
 
-## Preview
-
-![Screenshot showing responsive 3-column Bootstrap menu layout](screenshots/menu-preview.png)  
-
-*(Add your own screenshots here if desired)*
-
 ## License
 
 This project is intended for educational and demonstration purposes.
